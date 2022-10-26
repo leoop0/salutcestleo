@@ -1,5 +1,5 @@
 import Header from "../components/Header/Header";
-import Cta from "../components/Cta/Cta";
+import Cta from "../components/CTA/Cta";
 
 import Head from "next/head";
 

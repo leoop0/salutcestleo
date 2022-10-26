@@ -1,7 +1,7 @@
 import Header from "../components/Header/Header";
 import Banner from "../components/Banner/Banner";
 import Work from "../components/Work/Work";
-import Cta from "../components/Cta/Cta";
+import Cta from "../components/CTA/Cta";
 
 import Head from "next/head";
 
