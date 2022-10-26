@@ -14,7 +14,7 @@ export default function Custom404() {
         <div className="content">
           <img src="/img/Alt.svg" alt="Logo with crux on eyes" />
           <h1 className="Syne">#404</h1>
-          <h2>Oof, the page you're looking for is'nt here anymore :(</h2>
+          <h2>Oof, the page you're looking for is'nt here anymore 💀</h2>
         </div>
       </div>
     </div>
