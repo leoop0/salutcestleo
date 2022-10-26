@@ -55,7 +55,7 @@ export default function Home() {
               <div className="experience">
                 <img src="/img/exp/newgo.png" alt="Newgo Logo" />
                 <h4>
-                  Product Designer · &nbsp;
+                  Product Designer ·
                   <a href="https://newgo.io/" target="_blank" rel="noreferrer">
                     Newgo
                   </a>
@@ -69,7 +69,7 @@ export default function Home() {
               <div className="experience">
                 <img src="/img/exp/oplus.png" alt="Oplus Logo" />
                 <h4>
-                  Web developer · &nbsp;
+                  Web developer ·
                   <a href="https://oplus-urbanistes.fr/" target="_blank" rel="noreferrer">
                     0+ Urbanistes
                   </a>
